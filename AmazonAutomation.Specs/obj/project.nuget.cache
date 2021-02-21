@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCYHyb+gWdnSJGDuyE9kVKofSWWKIsLoM4KRIIgIhXb3m4S8Z0E10fXSc1iEtTpBFD1PMV5ZTJhSvPCX7Io9Cw==",
+  "dgSpecHash": "X5ernbuo8OjIcDHbcXpFHcNe9vO82xu5cPh5fJGSl/I3/7k0Dwu0IQk/4xW4uyKPddHAp1MrTdKQDnKU/WVEzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tpkaana\\source\\repos\\VNGRSAmazonAutomation\\AmazonAutomation.Specs\\AmazonAutomation.Specs.csproj",
+  "projectFilePath": "C:\\Users\\tpkaana\\Documents\\GitHub\\qa-engineer-challange\\AmazonAutomation.Specs\\AmazonAutomation.Specs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tpkaana\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\tpkaana\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",

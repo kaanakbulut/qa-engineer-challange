@@ -3,25 +3,19 @@ using AmazonAutomation.Specs.Driver;
 using AmazonAutomation.Specs.Page;
 using AmazonAutomation.Specs.Page.HomePage;
 using AmazonAutomation.Specs.Page.ResultPage;
+using AmazonAutomation.Specs.Test;
 using NUnit.Framework;
-using System;
 using TechTalk.SpecFlow;
 
 
 namespace AmazonAutomation.Specs
 {
     [Binding]
-    public class AmazonWebSiteSearchSteps
+    public class AmazonWebSiteSearchSteps : StepsBase
     {
-        private WebDriver _driver = new WebDriver();
 
         public string ResultPageCurrentUrl { get { return ResultPagePage.GetURL(); } }
-        public AmazonWebSiteSearchSteps()
-        {
-            _driver.Run();
-            ConstantsBase.Init(_driver.Driver);
-            PageBase.Init(_driver.Driver);
-        }
+
 
         [Given]
         public void GivenIAmOnTheAmazonHomePage()

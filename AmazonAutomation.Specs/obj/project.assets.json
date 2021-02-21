@@ -7000,11 +7000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tpkaana\\source\\repos\\VNGRSAmazonAutomation\\AmazonAutomation.Specs\\AmazonAutomation.Specs.csproj",
+      "projectUniqueName": "C:\\Users\\tpkaana\\Documents\\GitHub\\qa-engineer-challange\\AmazonAutomation.Specs\\AmazonAutomation.Specs.csproj",
       "projectName": "AmazonAutomation.Specs",
-      "projectPath": "C:\\Users\\tpkaana\\source\\repos\\VNGRSAmazonAutomation\\AmazonAutomation.Specs\\AmazonAutomation.Specs.csproj",
+      "projectPath": "C:\\Users\\tpkaana\\Documents\\GitHub\\qa-engineer-challange\\AmazonAutomation.Specs\\AmazonAutomation.Specs.csproj",
       "packagesPath": "C:\\Users\\tpkaana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tpkaana\\source\\repos\\VNGRSAmazonAutomation\\AmazonAutomation.Specs\\obj\\",
+      "outputPath": "C:\\Users\\tpkaana\\Documents\\GitHub\\qa-engineer-challange\\AmazonAutomation.Specs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

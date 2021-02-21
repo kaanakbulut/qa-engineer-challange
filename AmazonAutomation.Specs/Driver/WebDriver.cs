@@ -20,7 +20,7 @@ namespace AmazonAutomation.Specs.Driver
 
         public void Dispose()
         {
-            Driver.Quit();
+            Driver.Close();
             if (Driver != null)
                 Driver = null;
             
